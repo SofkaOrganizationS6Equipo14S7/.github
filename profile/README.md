@@ -38,6 +38,24 @@ Durante esta etapa nos enfocamos en la definición y planificación del producto
 
 ---
 
-## 📅 Semana 7 — En progreso
+## 📅 Semana 7 — MVP + QA
 
-> Próximas actividades a documentar.
+Durante esta etapa nos enfocamos en la implementación del MVP funcional y la validación mediante pruebas:
+
+- 💻 **Código fuente** del MVP funcional
+- 🧪 **TEST_PLAN.md** — Plan de pruebas del producto
+- 📋 **TEST_CASES.md** — Casos de prueba documentados
+- 🪞 **REALITY_CHECK.md** — Documento reflexivo del sprint
+- 🔬 **Pruebas API** con Karate (4 escenarios implementados)
+
+### 🔗 Repositorio DEV + QA
+
+[![LOYALTY_S7](https://img.shields.io/badge/GitHub-LOYALTY__S7-181717?logo=github)](https://github.com/Luis-Ospino/LOYALTY_S7/tree/main)
+
+### 🔗 Repositorio de Pruebas API (Karate)
+
+[![KarateS7](https://img.shields.io/badge/GitHub-KarateS7-181717?logo=github)](https://github.com/matiasregalo/KarateS7)
+
+### 📋 GitHub Project
+
+[![Github Proyect LOYALTY](https://img.shields.io/badge/GitHub%20Project-LOYALTY%20Board-0075ca?logo=github)](https://github.com/users/Ags-mites/projects/2)
